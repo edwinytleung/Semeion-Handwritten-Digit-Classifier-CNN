@@ -32,6 +32,6 @@
 |Avg: 97.17%|
 |SD: +/-0.98%|
 
-## 9 random samples: Real labels, predicted labels and probabilities**
+## 9 random samples: Real labels, predicted labels and probabilities
 
 ![Plot1](Plot1.png)
